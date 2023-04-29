@@ -1,9 +1,7 @@
 ## Результат вывода программы в консоль
 ```
-MyEntity{id=4104670b-a9cd-4b09-8212-9a7d18a1d3e7, name='first'}
-
-MyEntity{id=146819e3-8134-4d80-a8af-68e9f5bf945d, name='second'}
-
-MyEntity{id=146819e3-8134-4d80-a8af-68e9f5bf945d, name='second'}
+MyEntity{id=b5e34ffb-3f7a-4c78-842f-aaffbddc3f78, name='first'}
+MyEntity{id=9a8a2bd2-4dd9-400a-a640-b953d13d1965, name='second'}
+MyEntity{id=9a8a2bd2-4dd9-400a-a640-b953d13d1965, name='second'}
 ```
 
